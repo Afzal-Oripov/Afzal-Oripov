@@ -17,6 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afzal-oripov&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afzal-oripov&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 # 🌐 Other Stats:
+🪪Codewars <br><br>
 ![Codewars](https://www.codewars.com/users/Afzal_09/badges/large)
 
 ### ✍️  Dev Quote
