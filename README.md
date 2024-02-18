@@ -9,6 +9,7 @@
 💬 Ask me about me about my life!<br>
 ⚡ Fun fact: I always didn't like reading books! <br>
 📫 How to reach me **afzaloripov007@gmail.com**
+📫 How to reach me Telegram:  @A_Oripov09
 
 
 # 💻 Tech Stack:
