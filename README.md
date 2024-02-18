@@ -1,3 +1,4 @@
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 [<p align="right">![](https://visitcount.itsvg.in/api?id=afzal-oripov&icon=5&color=1)](https://visitcount.itsvg.in)<br>
 <h1 align="center">Hi 👋, I'm Afzal</h1>
 <h3 align="center">A young FrontEnd developer from Uzbekistan</h3> <br>
