@@ -1,7 +1,7 @@
 [<p align="right">![](https://visitcount.itsvg.in/api?id=afzal-oripov&icon=5&color=1)](https://visitcount.itsvg.in)<br>
 <h1 align="center">Hi 👋, I'm Afzal</h1>
 <h3 align="center">A young FrontEnd developer from Uzbekistan</h3> <br>
-<h3>💫 About Me:</h3>
+<h3>💫 About Me: * </h3>
 🔭 I’m currently working on FrontEnd,<br>
 👯 I’m looking to collaborate on with others,<br>
 🌱 I’m currently learning JavaScript, React and Python!<br>
