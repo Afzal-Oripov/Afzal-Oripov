@@ -4,7 +4,7 @@
 <h3>💫 About Me:</h3>
 🔭 I’m currently working on FrontEnd,<br>
 👯 I’m looking to collaborate on with others,<br>
-🌱 I’m currently learning JavaScript and React,<br>
+🌱 I’m currently learning JavaScript, React and Python!<br>
 💬 Ask me about me about my life!<br>
 ⚡ Fun fact: I always didn't like reading books! <br>
 📫 How to reach me **afzaloripov007@gmail.com**
