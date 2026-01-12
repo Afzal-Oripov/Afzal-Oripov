@@ -1,6 +1,6 @@
 [GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
 [<p align="right">![](https://visitcount.itsvg.in/api?id=afzal-oripov&icon=5&color=1)](https://visitcount.itsvg.in)<br>
-<h1 align="center">Hi 👋, I'm Afzal</h1>
+<h1 align="center">Hi 👋🏼, I'm Afzal</h1>
 <h3 align="center">A young FullStack Developer from Uzbekistan</h3> <br>
 <h3>💫 About Me: * </h3>
 🔭 I’m currently working on BackEnd,<br>
@@ -9,7 +9,7 @@
 💬 Ask me about me about my life!<br>
 ⚡ Fun fact: I always didn't like reading books! <br>
 📫 How to reach me in Instagram: @afzal_775 <br>
-📫 How to reach me in Telegram:  @A_Oripov09
+📫 How to reach me in Telegram:  @A_Oripov775
 
 
 # 💻 Tech Stack:
